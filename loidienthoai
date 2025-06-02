@@ -1,7 +1,0 @@
---- a/src/components/Header.js
-+++ b/src/components/Header.js
-@@ -22,7 +22,10 @@
- <div className="header-buttons">
--  <button className="login-button">Đăng nhập</button>
-+  <button className="login-button responsive-visible">Đăng nhập</button>
- </div>
